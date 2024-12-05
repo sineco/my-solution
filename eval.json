@@ -1,0 +1,27 @@
+[
+    {
+        "tokens": ["can", "we", "use", "Google", "Meet", "or", "Discord", "for", "this", "session", "?"],
+        "ner_tags": ["O", "O", "O", "B-PLATFORM", "I-PLATFORM", "O", "B-PLATFORM", "O", "O", "O", "O"]
+    },
+    {
+        "tokens": ["cool", ",", "see", "you", "on", "Zoom", "at", "3", "PM", "."],
+        "ner_tags": ["O", "O", "O", "O", "O", "B-PLATFORM", "O", "B-TIME", "I-TIME", "O"]
+    },
+    {
+        "tokens": ["let", "’", "s", "plan", "a", "call", "for", "Friday", "morning"],
+        "ner_tags": ["O", "O", "O", "O", "O", "B-PLATFORM", "O", "B-DATE", "B-TIME"]
+    },
+    {
+        "tokens": ["I", "prefer", "Microsoft", "Teams", "over", "Slack"],
+        "ner_tags": ["O", "O", "B-PLATFORM", "I-PLATFORM", "O", "O"]
+    },
+    {
+        "tokens": ["let", "’", "s", "discuss", "on", "Discord", "tonight", "."],
+        "ner_tags": ["O", "O", "O", "O", "O", "B-PLATFORM", "B-TIME", "O"]
+    },
+    {
+        "tokens": ["are", "we", "still", "meeting", "on", "Monday", "at", "11", "AM", "?"],
+        "ner_tags": ["O", "O", "O", "O", "O", "B-DATE", "O", "B-TIME", "I-TIME", "O"]
+    }
+
+]

@@ -1,0 +1,89 @@
+{
+    "train": [
+      {
+        "tokens": ["hstefan", ":", "yeah", "?", "want", "to", "jump", "on", "a", "call", "and", "troubleshoot", "together", "?"],
+        "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "B-PLATFORM", "O", "O", "O", "O"]
+      },
+      {
+        "tokens": ["I", "could", "join", "if", "you", "’", "re", "doing", "a", "screen", "share", "debugging", "session"],
+        "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "B-PLATFORM", "I-PLATFORM", "O", "O"]
+      },
+      {
+        "tokens": ["that", "sounds", "great", "-", "google", "meet", "or", "discord", "?"],
+        "labels": ["O", "O", "O", "O", "B-PLATFORM", "I-PLATFORM", "O", "B-PLATFORM", "O"]
+      },
+      {
+        "tokens": ["discord", "works", "for", "me", ".", "how", "about", "this", "evening", "around", "8", "?"],
+        "labels": ["B-PLATFORM", "O", "O", "O", "O", "O", "O", "O", "B-TIME", "I-TIME", "I-TIME", "O"]
+      },
+      {
+        "tokens": ["let", "me", "send", "a", "Zoom", "invite", "."],
+        "labels": ["O", "O", "O", "O", "B-PLATFORM", "O", "O"]
+      },
+      {
+        "tokens": ["we", "can", "use", "Microsoft", "Teams", "for", "this", "meeting"],
+        "labels": ["O", "O", "O", "B-PLATFORM", "I-PLATFORM", "O", "O", "O"]
+      },
+      {
+        "tokens": ["hey", "e_t_", ",", "been", "wrestling", "with", "some", "virtualbox", "resolution", "issues"],
+        "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+      },
+      {
+        "tokens": ["can", "we", "reschedule", "our", "call", "to", "10", "AM", "tomorrow", "?"],
+        "labels": ["O", "O", "O", "O", "B-PLATFORM", "O", "B-TIME", "I-TIME", "B-DATE", "O"]
+      },
+      {
+        "tokens": ["sounds", "good", ",", "I", "will", "prepare", "the", "agenda"],
+        "labels": ["O", "O", "O", "O", "O", "O", "O", "O"]
+      }
+    ],
+    "eval": [
+      {
+        "tokens": ["can", "we", "use", "Google", "Meet", "or", "Discord", "for", "this", "session", "?"],
+        "labels": ["O", "O", "O", "B-PLATFORM", "I-PLATFORM", "O", "B-PLATFORM", "O", "O", "O", "O"]
+      },
+      {
+        "tokens": ["cool", ",", "see", "you", "on", "Zoom", "at", "3", "PM", "."],
+        "labels": ["O", "O", "O", "O", "O", "B-PLATFORM", "O", "B-TIME", "I-TIME", "O"]
+      },
+      {
+        "tokens": ["let", "’", "s", "plan", "a", "call", "for", "Friday", "morning"],
+        "labels": ["O", "O", "O", "O", "O", "B-PLATFORM", "O", "B-DATE", "B-TIME"]
+      },
+      {
+        "tokens": ["I", "prefer", "Microsoft", "Teams", "over", "Slack"],
+        "labels": ["O", "O", "B-PLATFORM", "I-PLATFORM", "O", "O"]
+      },
+      {
+        "tokens": ["let", "’", "s", "discuss", "on", "Discord", "tonight", "."],
+        "labels": ["O", "O", "O", "O", "O", "B-PLATFORM", "B-TIME", "O"]
+      },
+      {
+        "tokens": ["are", "we", "still", "meeting", "on", "Monday", "at", "11", "AM", "?"],
+        "labels": ["O", "O", "O", "O", "O", "B-DATE", "O", "B-TIME", "I-TIME", "O"]
+      }
+    ],
+    "test": [
+      {
+        "tokens": ["what", "time", "are", "we", "joining", "the", "Google", "Meet", "call", "?"],
+        "labels": ["O", "O", "O", "O", "O", "O", "B-PLATFORM", "I-PLATFORM", "O", "O"]
+      },
+      {
+        "tokens": ["please", "send", "the", "Zoom", "link"],
+        "labels": ["O", "O", "O", "B-PLATFORM", "O"]
+      },
+      {
+        "tokens": ["I", "think", "Slack", "is", "not", "suitable", "for", "video", "calls"],
+        "labels": ["O", "O", "B-PLATFORM", "O", "O", "O", "O", "O", "O"]
+      },
+      {
+        "tokens": ["we", "should", "switch", "to", "Microsoft", "Teams", "for", "better", "collaboration"],
+        "labels": ["O", "O", "O", "O", "B-PLATFORM", "I-PLATFORM", "O", "O", "O"]
+      },
+      {
+        "tokens": ["is", "everyone", "okay", "with", "8", "PM", "on", "Discord", "?"],
+        "labels": ["O", "O", "O", "O", "B-TIME", "I-TIME", "O", "B-PLATFORM", "O"]
+      }
+    ]
+  }
+  

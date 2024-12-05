@@ -1,0 +1,38 @@
+[
+    {
+        "tokens": ["hstefan", ":", "yeah", "?", "want", "to", "jump", "on", "a", "call", "and", "troubleshoot", "together", "?"],
+        "ner_tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "B-PLATFORM", "O", "O", "O", "O"]
+    },
+    {
+        "tokens": ["I", "could", "join", "if", "you", "’", "re", "doing", "a", "screen", "share", "debugging", "session"],
+        "ner_tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "B-PLATFORM", "I-PLATFORM", "O", "O"]
+    },
+    {
+        "tokens": ["that", "sounds", "great", "-", "google", "meet", "or", "discord", "?"],
+        "ner_tags": ["O", "O", "O", "O", "B-PLATFORM", "I-PLATFORM", "O", "B-PLATFORM", "O"]
+    },
+    {
+        "tokens": ["discord", "works", "for", "me", ".", "how", "about", "this", "evening", "around", "8", "?"],
+        "ner_tags": ["B-PLATFORM", "O", "O", "O", "O", "O", "O", "O", "B-TIME", "I-TIME", "I-TIME", "O"]
+    },
+    {
+        "tokens": ["let", "me", "send", "a", "Zoom", "invite", "."],
+        "ner_tags": ["O", "O", "O", "O", "B-PLATFORM", "O", "O"]
+    },
+    {
+        "tokens": ["we", "can", "use", "Microsoft", "Teams", "for", "this", "meeting"],
+        "ner_tags": ["O", "O", "O", "B-PLATFORM", "I-PLATFORM", "O", "O", "O"]
+    },
+    {
+        "tokens": ["hey", "e_t_", ",", "been", "wrestling", "with", "some", "virtualbox", "resolution", "issues"],
+        "ner_tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+    },
+    {
+        "tokens": ["can", "we", "reschedule", "our", "call", "to", "10", "AM", "tomorrow", "?"],
+        "ner_tags": ["O", "O", "O", "O", "B-PLATFORM", "O", "B-TIME", "I-TIME", "B-DATE", "O"]
+    },
+    {
+        "tokens": ["sounds", "good", ",", "I", "will", "prepare", "the", "agenda"],
+        "ner_tags": ["O", "O", "O", "O", "O", "O", "O", "O"]
+    }
+]

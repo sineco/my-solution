@@ -1,0 +1,95 @@
+{'user': 'mike', 'message': 'I’m available on Thursday after 2 PM.', 'ts': 1704105908.663084, 'seqid': 387088}
+{'user': 'sara', 'message': 'Thursday works for me too. Should we use Zoom or Teams?', 'ts': 1704105908.7630839, 'seqid': 387089}
+{'user': 'luna', 'message': 'Let’s go with Teams at 3 PM.', 'ts': 1704105908.8630838, 'seqid': 387090}
+{'user': 'alex', 'message': 'I can join at that time. Can someone send the invite?', 'ts': 1704105908.9630837, 'seqid': 387091}
+{'user': 'luna', 'message': 'Sure, I’ll send out the Teams invite shortly.', 'ts': 1704105909.0630836, 'seqid': 387092}
+{'user': 'mike', 'message': 'Thanks, Luna!', 'ts': 1704105909.1630835, 'seqid': 387093}
+{'user': 'sara', 'message': 'Looking forward to it.', 'ts': 1704105909.2630835, 'seqid': 387094}
+{'user': 'john', 'message': 'Hey guys, sorry I’m late. Is the meeting on Thursday at 3 PM?', 'ts': 1704105909.3630834, 'seqid': 387095}
+{'user': 'luna', 'message': 'Yes, John. I’ll include you in the invite.', 'ts': 1704105909.4630833, 'seqid': 387096}
+{'user': 'john', 'message': 'Great, thanks!', 'ts': 1704105909.5630832, 'seqid': 387097}
+{'user': 'luna', 'message': 'Invite sent! See you all on Teams.', 'ts': 1704105909.6630831, 'seqid': 387098}
+{'user': 'alex', 'message': 'Got it.', 'ts': 1704105909.763083, 'seqid': 387099}
+{'user': 'sara', 'message': 'Received, thanks!', 'ts': 1704105909.863083, 'seqid': 387100}
+{'user': 'mike', 'message': 'See you all then.', 'ts': 1704105909.9630828, 'seqid': 387101}
+{'user': 'jess', 'message': 'Hi all, can I join the meeting too?', 'ts': 1704105910.0630827, 'seqid': 387102}
+{'user': 'luna', 'message': 'Absolutely, Jess. I’ll forward you the invite.', 'ts': 1704105910.1630826, 'seqid': 387103}
+{'user': 'jess', 'message': 'Thanks, Luna!', 'ts': 1704105910.2630825, 'seqid': 387104}
+{'user': 'sara', 'message': 'By the way, can we discuss the new project requirements during the meeting?', 'ts': 1704105910.3630824, 'seqid': 387105}
+{'user': 'luna', 'message': 'Yes, that’s on the agenda.', 'ts': 1704105910.4630823, 'seqid': 387106}
+{'user': 'alex', 'message': 'Perfect.', 'ts': 1704105910.5630822, 'seqid': 387107}
+{'user': 'mike', 'message': 'Sounds good.', 'ts': 1704105910.6630821, 'seqid': 387108}
+{'user': 'john', 'message': 'Looking forward to it.', 'ts': 1704105910.763082, 'seqid': 387109}
+{'user': 'jess', 'message': 'Great, see you all on Thursday.', 'ts': 1704105910.863082, 'seqid': 387110}
+{'user': 'sara', 'message': 'See you!', 'ts': 1704105910.9630818, 'seqid': 387111}
+{'user': 'luna', 'message': 'Don’t forget to prepare your updates.', 'ts': 1704105911.0630817, 'seqid': 387112}
+{'user': 'mike', 'message': 'Will do.', 'ts': 1704105911.1630816, 'seqid': 387113}
+{'user': 'alex', 'message': 'Got it.', 'ts': 1704105911.2630816, 'seqid': 387114}
+{'user': 'john', 'message': 'Noted.', 'ts': 1704105911.3630815, 'seqid': 387115}
+{'user': 'jess', 'message': 'Thanks for the reminder.', 'ts': 1704105911.4630814, 'seqid': 387116}
+{'user': 'sara', 'message': 'Have a good day, everyone.', 'ts': 1704105911.5630813, 'seqid': 387117}
+{'user': 'luna', 'message': 'You too!', 'ts': 1704105911.6630812, 'seqid': 387118}
+{'user': 'mike', 'message': 'Bye!', 'ts': 1704105911.763081, 'seqid': 387119}
+{'user': 'alex', 'message': 'Later!', 'ts': 1704105911.863081, 'seqid': 387120}
+{'user': 'john', 'message': 'See ya.', 'ts': 1704105911.9630808, 'seqid': 387121}
+{'user': 'jess', 'message': 'Bye!', 'ts': 1704105912.0630808, 'seqid': 387122}
+{'user': 'kevin', 'message': 'Hi team, I need help with setting up Docker on my machine.', 'ts': 1704105912.1630807, 'seqid': 387123}
+{'user': 'maria', 'message': 'What seems to be the issue?', 'ts': 1704105912.2630806, 'seqid': 387124}
+{'user': 'kevin', 'message': 'I get an error saying "Permission denied" when running docker commands.', 'ts': 1704105912.3630805, 'seqid': 387125}
+{'user': 'maria', 'message': 'Did you add your user to the docker group?', 'ts': 1704105912.4630804, 'seqid': 387126}
+{'user': 'kevin', 'message': 'No, how do I do that?', 'ts': 1704105912.5630803, 'seqid': 387127}
+{'user': 'maria', 'message': 'Run: sudo usermod -aG docker $USER', 'ts': 1704105912.6630802, 'seqid': 387128}
+{'user': 'kevin', 'message': 'Thanks, let me try that.', 'ts': 1704105912.7630801, 'seqid': 387129}
+{'user': 'sam', 'message': 'Also, you might need to log out and log back in for the changes to take effect.', 'ts': 1704105912.86308, 'seqid': 387130}
+{'user': 'kevin', 'message': 'Got it, thanks Sam.', 'ts': 1704105912.96308, 'seqid': 387131}
+{'user': 'maria', 'message': 'No problem!', 'ts': 1704105913.0630798, 'seqid': 387132}
+{'user': 'emma', 'message': 'Hey guys, can we schedule a brainstorming session this week?', 'ts': 1704105913.1630797, 'seqid': 387133}
+{'user': 'sam', 'message': 'Sure, I’m free on Friday afternoon.', 'ts': 1704105913.2630796, 'seqid': 387134}
+{'user': 'maria', 'message': 'Friday works for me too.', 'ts': 1704105913.3630795, 'seqid': 387135}
+{'user': 'kevin', 'message': 'I can make it on Friday after 1 PM.', 'ts': 1704105913.4630795, 'seqid': 387136}
+{'user': 'emma', 'message': 'Great, let’s set it for Friday at 2 PM on Zoom.', 'ts': 1704105913.5630794, 'seqid': 387137}
+{'user': 'sam', 'message': 'Sounds good.', 'ts': 1704105913.6630793, 'seqid': 387138}
+{'user': 'maria', 'message': 'I’ll be there.', 'ts': 1704105913.7630792, 'seqid': 387139}
+{'user': 'kevin', 'message': 'Looking forward to it.', 'ts': 1704105913.863079, 'seqid': 387140}
+{'user': 'emma', 'message': 'I’ll send out the Zoom invite shortly.', 'ts': 1704105913.963079, 'seqid': 387141}
+{'user': 'sam', 'message': 'Thanks, Emma!', 'ts': 1704105914.0630789, 'seqid': 387142}
+{'user': 'maria', 'message': 'Thanks!', 'ts': 1704105914.1630788, 'seqid': 387143}
+{'user': 'emma', 'message': 'Invite sent. See you all then.', 'ts': 1704105914.2630787, 'seqid': 387144}
+{'user': 'kevin', 'message': 'Received.', 'ts': 1704105914.3630786, 'seqid': 387145}
+{'user': 'sam', 'message': 'Got it.', 'ts': 1704105914.4630785, 'seqid': 387146}
+{'user': 'maria', 'message': 'Me too.', 'ts': 1704105914.5630784, 'seqid': 387147}
+{'user': 'emma', 'message': 'By the way, please bring your ideas on improving our workflow.', 'ts': 1704105914.6630783, 'seqid': 387148}
+{'user': 'kevin', 'message': 'Will do.', 'ts': 1704105914.7630782, 'seqid': 387149}
+{'user': 'sam', 'message': 'Sure thing.', 'ts': 1704105914.863078, 'seqid': 387150}
+{'user': 'maria', 'message': 'Absolutely.', 'ts': 1704105914.963078, 'seqid': 387151}
+{'user': 'dave', 'message': 'Hello everyone, does anyone know how to reset a forgotten MySQL root password?', 'ts': 1704105915.0630779, 'seqid': 387152}
+{'user': 'sam', 'message': 'Yes, you need to start MySQL with the --skip-grant-tables option.', 'ts': 1704105915.1630778, 'seqid': 387153}
+{'user': 'dave', 'message': 'Can you guide me through it?', 'ts': 1704105915.2630777, 'seqid': 387154}
+{'user': 'sam', 'message': 'Sure, first stop the MySQL service: sudo service mysql stop', 'ts': 1704105915.3630776, 'seqid': 387155}
+{'user': 'sam', 'message': 'Then start it without grant tables: sudo mysqld_safe --skip-grant-tables &', 'ts': 1704105915.4630775, 'seqid': 387156}
+{'user': 'dave', 'message': 'Got it.', 'ts': 1704105915.5630774, 'seqid': 387157}
+{'user': 'sam', 'message': 'Now you can log in without a password: mysql -u root', 'ts': 1704105915.6630774, 'seqid': 387158}
+{'user': 'dave', 'message': 'I’m in.', 'ts': 1704105915.7630773, 'seqid': 387159}
+{'user': 'sam', 'message': 'Run: UPDATE mysql.user SET authentication_string=PASSWORD("new_password") WHERE User="root";', 'ts': 1704105915.8630772, 'seqid': 387160}
+{'user': 'dave', 'message': 'Done.', 'ts': 1704105915.963077, 'seqid': 387161}
+{'user': 'sam', 'message': 'Then flush privileges: FLUSH PRIVILEGES;', 'ts': 1704105916.063077, 'seqid': 387162}
+{'user': 'dave', 'message': 'OK.', 'ts': 1704105916.1630769, 'seqid': 387163}
+{'user': 'sam', 'message': 'Now exit and restart MySQL normally.', 'ts': 1704105916.2630768, 'seqid': 387164}
+{'user': 'dave', 'message': 'Thanks a lot, Sam!', 'ts': 1704105916.3630767, 'seqid': 387165}
+{'user': 'sam', 'message': 'No problem!', 'ts': 1704105916.4630766, 'seqid': 387166}
+{'user': 'alice', 'message': 'Guys, can we have a quick sync-up meeting tomorrow?', 'ts': 1704105916.5630765, 'seqid': 387167}
+{'user': 'bob', 'message': 'Sure, what time?', 'ts': 1704105916.6630764, 'seqid': 387168}
+{'user': 'alice', 'message': 'How about 11 AM on Skype?', 'ts': 1704105916.7630763, 'seqid': 387169}
+{'user': 'carol', 'message': 'I can make it.', 'ts': 1704105916.8630762, 'seqid': 387170}
+{'user': 'dave', 'message': 'Works for me.', 'ts': 1704105916.963076, 'seqid': 387171}
+{'user': 'bob', 'message': 'I’ll be there.', 'ts': 1704105917.063076, 'seqid': 387172}
+{'user': 'alice', 'message': 'Great, I’ll set up the Skype call and send the details.', 'ts': 1704105917.1630759, 'seqid': 387173}
+{'user': 'carol', 'message': 'Thanks, Alice.', 'ts': 1704105917.2630758, 'seqid': 387174}
+{'user': 'alice', 'message': 'Invite sent. See you all tomorrow.', 'ts': 1704105917.3630757, 'seqid': 387175}
+{'user': 'bob', 'message': 'Received.', 'ts': 1704105917.4630756, 'seqid': 387176}
+{'user': 'dave', 'message': 'Got it.', 'ts': 1704105917.5630755, 'seqid': 387177}
+{'user': 'carol', 'message': 'See you then.', 'ts': 1704105917.6630754, 'seqid': 387178}
+{'user': 'alice', 'message': 'Don’t forget to bring your status updates.', 'ts': 1704105917.7630754, 'seqid': 387179}
+{'user': 'bob', 'message': 'Will do.', 'ts': 1704105917.8630753, 'seqid': 387180}
+{'user': 'dave', 'message': 'Sure thing.', 'ts': 1704105917.9630752, 'seqid': 387181}
+{'user': 'carol', 'message': 'Absolutely.', 'ts': 1704105918.063075, 'seqid': 387182}

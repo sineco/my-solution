@@ -1,0 +1,146 @@
+[
+    {
+        "tokens": [
+            "can",
+            "we",
+            "use",
+            "Google",
+            "Meet",
+            "or",
+            "Discord",
+            "for",
+            "this",
+            "session",
+            "?"
+        ],
+        "ner_tags": [
+            0,
+            0,
+            0,
+            1,
+            2,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "tokens": [
+            "cool",
+            ",",
+            "see",
+            "you",
+            "on",
+            "Zoom",
+            "at",
+            "3",
+            "PM",
+            "."
+        ],
+        "ner_tags": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            3,
+            4,
+            0
+        ]
+    },
+    {
+        "tokens": [
+            "let",
+            "\u2019",
+            "s",
+            "plan",
+            "a",
+            "call",
+            "for",
+            "Friday",
+            "morning"
+        ],
+        "ner_tags": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            5,
+            3
+        ]
+    },
+    {
+        "tokens": [
+            "I",
+            "prefer",
+            "Microsoft",
+            "Teams",
+            "over",
+            "Slack"
+        ],
+        "ner_tags": [
+            0,
+            0,
+            1,
+            2,
+            0,
+            0
+        ]
+    },
+    {
+        "tokens": [
+            "let",
+            "\u2019",
+            "s",
+            "discuss",
+            "on",
+            "Discord",
+            "tonight",
+            "."
+        ],
+        "ner_tags": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            3,
+            0
+        ]
+    },
+    {
+        "tokens": [
+            "are",
+            "we",
+            "still",
+            "meeting",
+            "on",
+            "Monday",
+            "at",
+            "11",
+            "AM",
+            "?"
+        ],
+        "ner_tags": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            5,
+            0,
+            3,
+            4,
+            0
+        ]
+    }
+]

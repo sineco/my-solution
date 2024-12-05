@@ -1,0 +1,116 @@
+[
+    {
+        "tokens": [
+            "what",
+            "time",
+            "are",
+            "we",
+            "joining",
+            "the",
+            "Google",
+            "Meet",
+            "call",
+            "?"
+        ],
+        "ner_tags": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            2,
+            0,
+            0
+        ]
+    },
+    {
+        "tokens": [
+            "please",
+            "send",
+            "the",
+            "Zoom",
+            "link"
+        ],
+        "ner_tags": [
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "tokens": [
+            "I",
+            "think",
+            "Slack",
+            "is",
+            "not",
+            "suitable",
+            "for",
+            "video",
+            "calls"
+        ],
+        "ner_tags": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "tokens": [
+            "we",
+            "should",
+            "switch",
+            "to",
+            "Microsoft",
+            "Teams",
+            "for",
+            "better",
+            "collaboration"
+        ],
+        "ner_tags": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            2,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "tokens": [
+            "is",
+            "everyone",
+            "okay",
+            "with",
+            "8",
+            "PM",
+            "on",
+            "Discord",
+            "?"
+        ],
+        "ner_tags": [
+            0,
+            0,
+            0,
+            0,
+            3,
+            4,
+            0,
+            1,
+            0
+        ]
+    }
+]

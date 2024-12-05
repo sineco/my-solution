@@ -1,0 +1,22 @@
+[
+    {
+        "tokens": ["what", "time", "are", "we", "joining", "the", "Google", "Meet", "call", "?"],
+        "ner_tags": ["O", "O", "O", "O", "O", "O", "B-PLATFORM", "I-PLATFORM", "O", "O"]
+      },
+      {
+        "tokens": ["please", "send", "the", "Zoom", "link"],
+        "ner_tags": ["O", "O", "O", "B-PLATFORM", "O"]
+      },
+      {
+        "tokens": ["I", "think", "Slack", "is", "not", "suitable", "for", "video", "calls"],
+        "ner_tags": ["O", "O", "B-PLATFORM", "O", "O", "O", "O", "O", "O"]
+      },
+      {
+        "tokens": ["we", "should", "switch", "to", "Microsoft", "Teams", "for", "better", "collaboration"],
+        "ner_tags": ["O", "O", "O", "O", "B-PLATFORM", "I-PLATFORM", "O", "O", "O"]
+      },
+      {
+        "tokens": ["is", "everyone", "okay", "with", "8", "PM", "on", "Discord", "?"],
+        "ner_tags": ["O", "O", "O", "O", "B-TIME", "I-TIME", "O", "B-PLATFORM", "O"]
+      }
+]
